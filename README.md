@@ -9,7 +9,7 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 🎓 &nbsp;I'm a graduate Electronics and Communication Engineering.\
-💡 &nbsp;Currently I am working as a Machine Learning Engineer focussing on Computer Vision.\ 
-🌱 &nbsp;I have experience in working with technologies icluding Python, Tensorflow, Keras. Currently learning C++, Open3D.\
+💡 &nbsp;Currently I am working as a Machine Learning Engineer focussing on Computer Vision.\
+💡 &nbsp;I have experience in working with technologies icluding Python, Tensorflow, Keras. Currently learning C++, Open3D.\
 🌱 &nbsp;I'm on track for learning more about Machine Learning System Design, Reinforcement Learning and Algorithms.\
 ✉️ &nbsp;You can mail me at nikhilgiji3@gmail.com! I'll try to respond as soon as I can.
