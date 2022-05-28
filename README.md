@@ -8,7 +8,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I'm a graduate Electronics and Communication Engineering.\
+🎓 &nbsp;I'm a Machine Learning developer.\
 💡 &nbsp;Currently I am working as a Machine Learning Engineer focussing on Computer Vision.\
 💡 &nbsp;I have experience in working with technologies icluding Python, Tensorflow, Keras. Currently learning C++, Open3D.\
 🌱 &nbsp;I'm on track for learning more about Machine Learning System Design, Self Supervised Learning and Algorithms.\
