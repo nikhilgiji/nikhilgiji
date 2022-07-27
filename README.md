@@ -8,8 +8,8 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I'm a User Experience Designer.\
+🎓 &nbsp;I'm a Data Scientist.\
 💡 &nbsp;Sometimes I also write code particularly in the area of computer vision.\
-💡 &nbsp;I have experience in working with technologies icluding Figma, After Effects and Python.\
-🌱 &nbsp;I'm on track for learning more about designing interface for machine learning systems and human computer interaction.\
+💡 &nbsp;I have experience in working with technologies icluding Python, Pandas, Numpy and Tensorflow.\
+🌱 &nbsp;I'm on track for learning more about data analysis for healthcare.\
 ✉️ &nbsp;You can mail me at nikhilgiji3@gmail.com! I'll try to respond as soon as I can.
