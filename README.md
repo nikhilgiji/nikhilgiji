@@ -14,3 +14,7 @@
 - 📫 &nbsp; How to reach me:[@nikhilgiji](https://twitter.com/NikhilGiji) or <a rel="me" href="nikhilgiji3@gmail.com">mailme</a>
 - 🤔 &nbsp; I’m looking for help with learning computer vision for autonomous systems
 - ⚡ &nbsp; Fact: It's not magic, it's talent and sweat
+
+#### Github Stats
+
+![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=nikhilgiji&count_private=true&theme=tokyonight&hide=contribs,prs)
