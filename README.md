@@ -1,4 +1,4 @@
-### Hi there, I'm Nikhil Giji 👋 
+### Hi there, I'm Nikhil Giji <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/NikhilGiji?label=Follow)](https://twitter.com/intent/follow?screen_name=NikhilGiji)
 [![Linkedin: Nikhil](https://img.shields.io/badge/-Nikhil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikhilfrancisgiji/)](https://www.linkedin.com/in/nikhilfrancisgiji/)
