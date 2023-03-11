@@ -9,8 +9,8 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-🔭 &nbsp;I'm currently working on developing an opensource ML library.\
-💡 I have keen interest in the area of machine perception for health care and automotive domains.\
-📫 How to reach me:[@nikhilgiji](https://twitter.com/NikhilGiji) or <a rel="me" href="nikhilgiji3@gmail.com">mailme</a>.\ 
-🤔 I’m looking for help with learning computer vision for autonomous systems.\ 
-⚡ Quote: It's not magic, it's talent and sweat.
+- 🔭 &nbsp; I'm currently working on developing an opensource ML library
+💡 I have keen interest in the area of machine perception for health care and automotive domains
+📫 How to reach me:[@nikhilgiji](https://twitter.com/NikhilGiji) or <a rel="me" href="nikhilgiji3@gmail.com">mailme</a>
+🤔 I’m looking for help with learning computer vision for autonomous systems
+⚡ Quote: It's not magic, it's talent and sweat
