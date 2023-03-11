@@ -8,7 +8,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I'm a MSc Data Science student in my way to become an Machine Learning Engineer .\ 
+🎓 &nbsp;I'm a MSc Data Science student in my way to become an Machine Learning Engineer.\ 
 💡 &nbsp;I have keen interest in the area of machine perception for health care and automotive domains.\
 💡 &nbsp;Sometimes I also write code particularly in the area of computer vision.\
 💡 &nbsp;I have experience in working with technologies icluding Python, Pandas, Numpy and Tensorflow.\
