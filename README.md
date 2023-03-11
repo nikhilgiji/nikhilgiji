@@ -5,13 +5,12 @@
 ![GitHub followers](https://img.shields.io/github/followers/nikhilgiji?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=nikhilgiji&color=brightgreen">  
 
-🎓 I'm Nikhil Giji, Currently an MSc Data Science student on my way to becoming a Machine Learning Engineer.
+🎓 I'm Nikhil Giji, currently an MSc Data Science student on my way to becoming a Machine Learning Engineer.
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I'm a MSc Data Science student in my way to become an Machine Learning Engineer.\ 
+🔭 &nbsp;I'm currently working on developing an opensource ML library.\
 💡 &nbsp;I have keen interest in the area of machine perception for health care and automotive domains.\
-💡 &nbsp;Sometimes I also write code particularly in the area of computer vision.\
-💡 &nbsp;I have experience in working with technologies icluding Python, Pandas, Numpy and Tensorflow.\
-🌱 &nbsp;I'm on track of becoming a Full Stack ML Engineer.\
-✉️ &nbsp;You can mail me at nikhilgiji3@gmail.com! I'll try to respond as soon as I can.
+📫 &nbsp;How to reach me:[@nikhilgiji](https://twitter.com/NikhilGiji) or <a rel="me" href="nikhilgiji3@gmail.com">mailme</a>.\ 
+🤔 &nbsp;I’m looking for help with learning computer vision for autonomous systems.\ 
+⚡ &nbsp;Quote: It's not magic, it's talent and sweat.
