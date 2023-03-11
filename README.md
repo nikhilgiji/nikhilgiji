@@ -8,8 +8,9 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I'm a Data Scientist.\
+🎓 &nbsp;I'm a MSc Data Science student in my way to become an Machine Learning Engineer .\ 
+💡 &nbsp;I have keen interest in the area of machine perception for health care and automotive domains. 
 💡 &nbsp;Sometimes I also write code particularly in the area of computer vision.\
 💡 &nbsp;I have experience in working with technologies icluding Python, Pandas, Numpy and Tensorflow.\
-🌱 &nbsp;I'm on track for learning more about data analysis for healthcare.\
+🌱 &nbsp;I'm on track of becoming a Full Stack ML Engineer.\
 ✉️ &nbsp;You can mail me at nikhilgiji3@gmail.com! I'll try to respond as soon as I can.
