@@ -17,4 +17,6 @@
 
 #### Github Stats
 
-![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=nikhilgiji&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=nikhilgiji&count_private=true&theme=tokyonight&hide=contribs,prs) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilgiji&layout=compact)](https://github.com/nikhilgiji/github-readme-stats)
