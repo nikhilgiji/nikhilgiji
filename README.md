@@ -5,7 +5,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/nikhilgiji?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=nikhilgiji&color=brightgreen">  
 
-🎓 I'm Nikhil Giji, currently an MSc Data Science student on my way to becoming a Machine Learning Engineer.
+🎓 I'm Nikhil Giji, currently an MSc Data Science student specializing in machine perception on my way to becoming a Machine Learning Engineer.
 
 ## 👨🏻‍💻 &nbsp;About Me
 
