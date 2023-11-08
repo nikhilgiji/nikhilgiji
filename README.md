@@ -9,7 +9,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 &nbsp; I'm currently working on ETL pipelines 
+- 🔭 &nbsp; I'm currently working on an image processing library 
 - :bulb: &nbsp; I have keen interest in the area of machine perception for health care and automotive domains
 - 📫 &nbsp; How to reach me: [@nikhilgiji](https://twitter.com/NikhilGiji)
 - 🤔 &nbsp; I’m looking for help with learning computer vision for autonomous systems
