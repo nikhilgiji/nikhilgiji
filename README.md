@@ -5,7 +5,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/nikhilgiji?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=nikhilgiji&color=brightgreen">  
 
-🎓 I'm Nikhil Giji, currently an MSc Applied Computer Science student specializing in machine perception on my way to becoming a Machine Learning Engineer.
+🎓 I'm Nikhil Giji, and I am currently an Applied Machine Learning Engineer in Perception. I primarily work on the network architectural design and deployment of large-scale vision systems.
 
 ## 👨🏻‍💻 &nbsp;About Me
 
